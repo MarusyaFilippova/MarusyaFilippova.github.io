@@ -1,5 +1,3 @@
-# MarusyaFilippova.github.io
-
 # Личный проект «Мишка»
 
 * Студент: [Мария Филиппова](https://up.htmlacademy.ru/adaptive/13/user/136678).
